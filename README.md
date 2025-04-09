@@ -1,3 +1,3 @@
 # Изображение с распознаванием линий
 
-![Uploading image.png…]()
+![alt text](image.png)
